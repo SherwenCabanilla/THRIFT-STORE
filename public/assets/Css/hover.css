@@ -1,0 +1,19 @@
+.hov:hover{
+
+    background-color: gray;
+}
+
+.hov{
+    background-color: white;
+}
+
+.ls{
+    letter-spacing: .1em;
+}
+
+.first-warning{
+    background-color: rgb(226, 0, 0);
+}
+.rotate{
+    transform: rotate(130deg);
+}
